@@ -1,4 +1,4 @@
-# Online/Offline Budget Trackers
+# Online/Offline Budget Tracker
 
 The Budget Tracker app allows users to add expesnse and deposits to their budget while the web browser is online or offline. 
 
