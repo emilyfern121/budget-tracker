@@ -6,7 +6,7 @@ I used indexedDB so the users offline entries will be added to the tracker once 
 
 Link to deployed app: 
 
-Screenshots of Budget Tracker below:
+Screenshot of Budget Tracker below:
 
 ![Capture](https://user-images.githubusercontent.com/79679121/131044970-f4aa04ac-8fd6-4fd5-86c1-2fbed7f00614.JPG)
 
